@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "5c6b4fe7590afaad8f32f49b",
+  "owner": "wyeueuajy",
+  "repo": "wyeueuajy.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "e40881491991ed0908bf8431",
+      "a": "忍者云(RenzheCloud)",
+      "b": "官方发布页",
+      "entity": "忍者云(RenzheCloud)",
+      "brand": "官方发布页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4c63f31e94b1f1053b3615e84a501c1fb223e990f4aae0adcb4899d2b1a6e8bb",
+      "content": {
+        "primary_entity": "忍者云(RenzheCloud)",
+        "keyword1": "忍者云(RenzheCloud)",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_DESCRIPTION": "，专注提供海外网络加速服务，面向需要稳定连接海外应用、游戏与流媒体的用户。套餐按流量与设备数区分，基础版适合个人日常使用，旗舰版强化流媒体与游戏线路，团队版满足多设备与高带宽需求。支持常见主流客户端，按设备选择订阅配置即可使用。",
+          "AI_HERO_SUBTITLE": "海外加速，按需选套餐",
+          "AI_HERO_INTRO": "忍者云(RenzheCloud)提供海外网络加速服务，套餐覆盖个人到团队场景。选择时关注每月流量、同时在线设备数与线路类型，按设备配置订阅后即可连接使用。",
+          "AI_VISUAL_TITLE": "忍者云加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "设备数覆盖个人到团队",
+          "AI_HIGHLIGHT_3": "年付方案更划算",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度选择适合自己的套餐，配置过程简洁直接。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度使用，旗舰版覆盖日常追剧与游戏，团队版满足多人共享大流量需求。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "套餐档位对应不同的同时在线设备数量，根据手机、电脑、平板数量选择对应档位即可。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付价格更优惠。按月体验或按年长期使用均可，续费周期清晰。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "忍者云支持常见主流客户端，按设备系统选择对应版本，参考客户端文档完成订阅导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数和线路类型上各有侧重，按实际使用场景选择即可。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，分三步操作。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版或团队版中选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本是否满足订阅导入条件，准备好订阅链接。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "按照所用客户端的使用说明导入订阅，保存后连接节点即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "先看每月流量需求，再看同时在线设备数量。轻度使用选基础版，追剧或游戏多选旗舰版，多人共享选团队版。",
+          "AI_FAQ_QUESTION_2": "套餐支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "不同档位支持的同时在线设备数量不同，基础版最少，团队版最多。超出数量会导致连接异常，建议按实际设备数选择档位。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "获取订阅链接后，在所用客户端的订阅管理中添加，保存并更新即可。具体操作参考对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按月计费灵活度高，年付总价更优惠，适合长期使用的用户。两种周期在套餐权益上一致。",
+          "AI_FAQ_QUESTION_5": "节点线路是否有区别？",
+          "AI_FAQ_ANSWER_5": "基础版使用普通线路节点池，旗舰版提供IPLC专线游戏加速优化，团队版配备VIP专属高带宽节点。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "根据流量和设备需求选好档位，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "13e2415c7aac97b488e85becd902932bae10f4c3a214342da241ec791912d867",
+    "sitemap.xml": "15dd456bb56770fd7123bb91b0f7f5734e54121d2de334bec5c5304fd45df542",
+    "robots.txt": "850a0dbf85d6b78d23dc2061c64869516e6c6841047f588f4876a52306181afb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "597cf3cb8d4119deefabc6d5cbb58e6bd39ee22ef0e97ecf0274cea6dc0dee95"
+}

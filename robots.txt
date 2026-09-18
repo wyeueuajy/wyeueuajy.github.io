@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wyeueuajy.github.io/sitemap.xml
